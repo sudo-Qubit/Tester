@@ -1,1 +1,2 @@
-Test number 1
+Test number 1 : Initial Commit
+Test number 2 : second commit
